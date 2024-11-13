@@ -1,0 +1,17 @@
+.wrapper {
+  padding: 0px 6px;
+}
+
+.checkBox {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.181);
+}
+
+.check {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../../assets/tick.svg');
+}

@@ -1,0 +1,16 @@
+.todo {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.181);
+}
+
+.text {
+  padding: 10px 10px;
+  margin: 0;
+  color: rgb(16, 15, 15);
+}
+
+.textCompleted {
+  text-decoration: line-through;
+  color: rgba(16, 15, 15, 0.404);
+}

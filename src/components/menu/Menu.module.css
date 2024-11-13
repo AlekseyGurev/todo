@@ -1,0 +1,11 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  background-color: #ffffff;
+}
+
+.menu div {
+  display: flex;
+}

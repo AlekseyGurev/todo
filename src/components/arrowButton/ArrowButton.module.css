@@ -1,0 +1,10 @@
+.arrowButton {
+  border: none;
+  background-color: #ffffff;
+  border-right: 1px solid rgba(0, 0, 0, 0.181);
+  cursor: pointer;
+}
+
+.arrowButton img {
+  display: block;
+}

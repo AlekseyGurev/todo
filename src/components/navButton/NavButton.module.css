@@ -1,0 +1,10 @@
+.button {
+  font-size: 12px;
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.button:active {
+  opacity: 0.5;
+}
